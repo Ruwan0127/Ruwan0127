@@ -1,0 +1,39 @@
+body {
+  font-size: 16px;
+}
+h6 {
+color: grey;
+font-size: 12px
+}
+img {
+
+height: 250;
+width: 500px;
+margin: 15px;
+padding-left: 20pt;
+border-color: white;
+border-width: 1px;
+border-style: solid;
+border-radius: 2px;
+}
+h1 {
+color: brown;
+font-size: 24;
+font-family: sans-serif;
+letter-spacing: 10px ;
+text-align: center;
+font-weight: bold;
+text-shadow: +1px +1px grey;
+
+}
+h2 {
+color: black;
+font-size: 18;
+font-family: sans-serif;
+letter-spacing: 10px ;
+text-align: center;
+font-weight: bold;
+text-shadow: +1px +1px grey;
+
+
+}
