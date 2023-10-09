@@ -1,5 +1,4 @@
 # White-Villa
-<!DOCTYPE html>
   <head> <title>"White Villa 19A"</title>
     <link rel="stylesheet" href="style.css"/>
       </head>
@@ -84,5 +83,3 @@
 
     <h6> All these photos by Pramod Madushanka CCO </h6>
   
-  
-</html>
