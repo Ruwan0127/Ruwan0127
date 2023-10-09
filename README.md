@@ -59,7 +59,7 @@
       <li> AC
       <li> Price per night USD 30
       </li>
-    </ul>
+    
       <br>
       <br>
       <br>
@@ -80,7 +80,7 @@
       <li> Fan
       <li> Price per night USD 10
       </li>
-    </ul>
+    
 
     <h6> All these photos by Pramod Madushanka CCO </h6>
   
