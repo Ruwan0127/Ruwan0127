@@ -6,7 +6,7 @@
   <body>
     
     <h1> White Villa <br> Kandy - Sri Lanka </h1>
-    ![Alt text](https://github.com/Ruwan0127/ruwan0127.github.io/blob/main/1.jpg "Home");
+    ![Home](https://github.com/Ruwan0127/ruwan0127.github.io/blob/main/1.jpg?raw=true "Home");
          height="500"
          width="500" >
          <img src="2.jpg" alt="Home";
