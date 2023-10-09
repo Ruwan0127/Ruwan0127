@@ -1,6 +1,88 @@
 # White-Villa
+<!DOCTYPE html>
+  <head> <title>"White Villa 19A"</title>
+    <link rel="stylesheet" href="style.css"/>
+      </head>
+  
+  <body>
+    
+    <h1> White Villa <br> Kandy - Sri Lanka </h1>
+    <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/488280678.jpg?k=c0488d66a9dbdec1c420c25c3f07b5d7a51dd9992c56f702ce63971633fadf17&o=&hp=1" alt="Home";
+         height="500"
+         width="500" >
+         <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/490009323.jpg?k=d3a054edc943ac4d4096323394c4b9435b3e3a8fdcc5b13d305a4917a13c0057&o=&hp=1" alt="Home";
+         height="500"
+         width="500" >
+         
+      <br>
+     <h2> Master Bedroom </h2>
+      <br>
+  
+    <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/488872023.jpg?k=4f102d5d1fc030b11eb0d293b4fc8772458eb050e19c1aa0cdacbcd325a6fd84&o=&hp=1" alt="Master bed Room";
+         height="300"
+         width="300" >
+         <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/488872025.jpg?k=b6701c39363623aa7bbeb6f953e521b620f94a2aad5ee0cb5ca05210a4146cfc&o=&hp=1";
+         height="300"; alt="Master Bedroom"
+         width="300" >
+  
+    <ul> This is the most comfortable and most expensive room. It has following features.
+      <br>
+      <br>
+    
+      <li> King Sized Bed and 10 inch spring mattress.
+      <li> Large wardrobe
+      <li> Attached bathroom with Bathtub
+      <li> Open Shower
+      <li> AC
+      <li> Price per night USD 50
+      </li>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      
+    
+    <h2> Delux Bed Room </h2>    
+      <br>
 
-Villa locate in Kandy, Sri Lanka
+    <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/489320587.jpg?k=bc99a6f9843b894075a92550fc033dc18adb6a9e78c6dc43b4b27142f9657e83&o=&hp=1" alt="Delux bed Room";
+         height="300"
+         width="300" >
+     <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/488872012.jpg?k=c48728e3f695482a87478a00ce2d5694dffca89532dc3bf299e1387ed526a10a&o=&hp=1";
+         height="300"; alt="Deulux-Room";
+         width="300" >
+    <ul> This is the second expensive room. It has following features.
+      <br>
+      <br>
+      <li> Queen Sized Bed and 6 inch spring mattress
+      <li> AC
+      <li> Price per night USD 30
+      </li>
+    </ul>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    <h2> Budget room </h2>
+      <br>
+      <br>
+    <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/488871682.jpg?k=ce113fbfd2981f98750c5ff4852ac3f0235229fcc9deaa5bae57f9db8ce162b1&o=&hp=1" alt="Budget bed Room";
+         height="300"
+         width="300" >
+    <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/489882796.jpg?k=49cfe4fb343afb0392f6ce6e6a78d7d2606af6f56b344e3257d16cb76488ba07&o=&hp=1" alt="Budget bed Room";
+         height="300"
+         width="300" >
+    <ul> This is the basic room has following features.
+      <li> Standered double bed spring mattress
+      <li> Fan
+      <li> Price per night USD 10
+      </li>
+    </ul>
 
-It has 3 rooms. Master bed room, Dulux bedroom and budget room.
-This includes the facilities and the prices
+    <h6> All these photos by Pramod Madushanka CCO </h6>
+  
+  
+</html>
